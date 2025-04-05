@@ -1,21 +1,9 @@
-# 👋 Hi, I'm Mateusz (aka @MatruszGrze)
+# 👋 Hi, I'm Mateusz
 
 - 🚀 I'm a Software Engineer focused on building high-performance systems with **.NET**
 - 🧠 Learning more about **Microservices, Event-driven Architecture, and Cloud solutions**
 - 💼 Currently working on **Large-Scale Web Services and Application Development**
 - 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/mateusz-grzegorzewski/)
-
----
-
-### 📊 My Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatruszGrze&layout=compact&theme=radical&langs_count=6)
-
----
-
-### ⚙️ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatruszGrze&show_icons=true&theme=radical)
 
 ---
 
